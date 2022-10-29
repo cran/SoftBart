@@ -1,5 +1,6 @@
-2c3aabe1ef1eecd807d96baffd93192c *DESCRIPTION
+f057cfee78f6d106980b15f6f171b13a *DESCRIPTION
 68bb48385c2e1bb79b9c2a6026670105 *NAMESPACE
+16f75cad3f2b992ef9364d2b78b0d4ea *NEWS.md
 ddb97cd900db7543b328ca542b220ef5 *R/MakeForest.R
 9dbab272328baf8770cb524a964fdd84 *R/RcppExports.R
 589a1ed534e85974908f63ce58acb005 *R/SoftBart.R
@@ -17,6 +18,10 @@ d47e18074b64a427a9809f46512cb9d4 *R/rmse.R
 b06132f4a0c9f14563ee749cd0af16db *R/softbart_probit.R
 0b0094bf3068701b6b6fd19dfa562f9f *R/softbart_regression.R
 33acc6313627718dfa2df6f17524769b *R/vc_softbart_regression.R
+66a14354c90b8d4a64678e44c6743a85 *build/vignette.rds
+e1fd84e292a38da03f700b6b5bced45f *inst/CITATION
+f1337380cdead500ac6bf2e8c9857cf7 *inst/doc/SoftBart-Vig.Rnw
+5a3da92d8134cda987fa4233facd28ad *inst/doc/SoftBart-Vig.pdf
 8a694352271210350e9b0dafe4871323 *inst/scripts/safe_bcmf.R
 2974586f9b13c722926dc4b8498ed7bd *inst/scripts/testing_predict.R
 ceb186c52953321640080ecdfde1f37e *inst/scripts/testing_weights.R
@@ -41,8 +46,10 @@ f5d9691128937be8b5b540a0977e8c36 *man/softbart_regression.Rd
 f6d6a180b460fe4211a3b82409de7f8d *man/vc_softbart_regression.Rd
 2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
 8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
-6b6a772fb960e24ebfa2b35b79cd7fce *src/RcppExports.cpp
+a5a5557f28bb8dc1429c792567841d4a *src/RcppExports.cpp
 5e79b3672d54fbcc2afb74b2a59dc516 *src/functions.h
 68b329da9893e34099c7d8ad5cb9c940 *src/slice_sampler.h
 3769317bd617aa341003cac26770f406 *src/soft_bart.cpp
 ab566650a8c881a890cabf1466da24df *src/soft_bart.h
+f1337380cdead500ac6bf2e8c9857cf7 *vignettes/SoftBart-Vig.Rnw
+aee56477813d24cd057fdbf1e32e0d92 *vignettes/SoftBart.pdf
